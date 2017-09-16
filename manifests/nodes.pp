@@ -3,3 +3,6 @@ node 'ub16' {
       content => "Hello World\n",
    }
 }
+
+node 'centos16' {
+   file {}
